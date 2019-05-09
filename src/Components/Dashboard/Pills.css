@@ -1,0 +1,14 @@
+.pill a {
+  color: orange !important;
+}
+.pill .active {
+  background-color: rgb(31, 31, 31) !important;
+  color: white !important;
+}
+.pill a {
+  text-decoration: none;
+}
+.pill a:hover {
+  background-color: rgb(31, 31, 31);
+  color: white;
+}

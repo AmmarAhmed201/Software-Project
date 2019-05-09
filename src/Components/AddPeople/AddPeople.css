@@ -1,0 +1,24 @@
+.add-people label {
+  color: orange;
+}
+.add-people input {
+  max-width: 500px;
+}
+.alert {
+  max-width: 500px;
+}
+
+.add-people button {
+  background-color: orange !important;
+  color: black;
+  text-decoration: none !important;
+}
+
+.add-people button:hover {
+  color: white;
+  background-color: rgb(48, 48, 48) !important;
+}
+
+.add-people h1 {
+  color: white;
+}

@@ -1,0 +1,10 @@
+.add-button {
+  background-color: orange !important;
+  color: white;
+  text-decoration: none !important;
+}
+
+.body-section a:hover {
+  color: white;
+  background-color: rgb(48, 48, 48) !important;
+}
